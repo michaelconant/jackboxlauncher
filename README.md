@@ -14,8 +14,10 @@ mainly to view all the games in a nice way similar to the main menus of the pack
 Using the Launcher
 ---------------
 
+Currently the only supported OS due to the fact it is compiled as an EXE. <br />
+<br />
 Step 1: Launch the include exe <br />
-
+<br />
 It is as simple as that but the launcher by default should have all the packs enabled 
 but no file paths for them. This means they will be viewable but not launchable through
 the launcher. <br />
