@@ -8,7 +8,6 @@ Using this you can view basic information from each game and launch the pack of 
 you are viewing. There is even a random game button for when your friends are too lazy
 to pick a game. It will not launch the specific game in the pack but it's purpose is
 mainly to view all the games in a nice way similar to the main menus of the packs.
-[![Preview](blob:https://projectcuriosity.imgur.com/d062b59e-df5c-4fa5-a876-3998c85cd643)]
 
 
 Using the Launcher
