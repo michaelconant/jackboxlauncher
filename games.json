@@ -1,0 +1,351 @@
+[
+    {
+        "name": "Drawful 2",
+        "bg_color": "white",
+        "text_color": "deep pink",
+        "description_color": "black",
+        "highlight_color": "deep pink",
+        "title_color": "deep pink",
+        "button_text_color": "deep pink",
+        "picturesPath": "Pictures/Drawful 2/",
+        "enabled": false,
+        "gamePath": "",
+        "games": [
+            {
+                "name": "Drawful 2",
+                "pictureName": "drawful2.png",
+                "description": "For 3-8 players and an audience of thousands! Your phones or tablets are your controllers! The game of terrible drawings and hilariously wrong answers."
+            }
+        ]
+    },
+    {
+        "name": "Fibbage XL",
+        "bg_color": "white",
+        "text_color": "deep pink",
+        "description_color": "black",
+        "highlight_color": "deep pink",
+        "title_color": "deep pink",
+        "button_text_color": "deep pink",
+        "picturesPath": "Pictures/Fibbage XL/",
+        "enabled": false,
+        "gamePath": "",
+        "games": [
+            {
+                "name": "Fibbage XL",
+                "pictureName": "fibbagexl.png",
+                "description": "Fool your friends with your lies avoid theirs, and find the (usually outrageous) truth. \"The mayor of Rabbit Hash, Kentucky is a ____.\" Go!"
+            }
+        ]
+    },
+    {
+        "name": "Quiplash",
+        "bg_color": "white",
+        "text_color": "deep pink",
+        "description_color": "black",
+        "highlight_color": "deep pink",
+        "title_color": "deep pink",
+        "button_text_color": "deep pink",
+        "picturesPath": "Pictures/Quiplash/",
+        "enabled": false,
+        "gamePath": "",
+        "games": [
+            {
+                "name": "Quiplash",
+                "pictureName": "Quiplash.png",
+                "description": "For 3-8 Players and an Audience of thousands! Your phones or tablets are your controllers! The gut-busting, say-anything, no-rules party game!"
+            }
+        ]
+    },
+    {
+        "name": "Quiplash 2 InterLASHional",
+        "bg_color": "white",
+        "text_color": "deep pink",
+        "description_color": "black",
+        "highlight_color": "deep pink",
+        "title_color": "deep pink",
+        "button_text_color": "deep pink",
+        "picturesPath": "Pictures/Quiplash 2 InterLASHional/",
+        "enabled": false,
+        "gamePath": "",
+        "games": [
+            {
+                "name": "Quiplash 2 InterLASHional",
+                "pictureName": "quiplash2.png",
+                "description": "The \"say anything\" party game is going international! All the hilarious content from Quiplash 2, now in French, Italian, German, and Spanish! With 100 NEW prompts in each language! (And you can still play in boring old English.) Get this QUINTILINGUAL Quiplash now, and take your next party global!"
+            }
+        ]
+    },
+    {
+        "name": "Jackbox Party Pack 1",
+        "bg_color": "bisque4",
+        "text_color": "white",
+        "description_color": "black",
+        "highlight_color": "lawn green",
+        "title_color": "dark orange",
+        "button_text_color": "black",
+        "picturesPath": "Pictures/Pack 1/",
+        "enabled": true,
+        "gamePath": "",
+        "games": [
+            {
+                "name": "YOU DON'T KNOW JACK 2015",
+                "pictureName": "jack.png",
+                "description": "The smart-ass trivia show that started it all! Hundreds of all-new twisted trivia questions and everyone's favorite host, Cookie Masterson!"
+            },
+            {
+                "name": "DRAWFUL",
+                "pictureName": "drawful.png",
+                "description": "The drawing game that takes all other drawing games and draws little mustaches on them. Can't draw? No Problem! It's funnier that way!"
+            },
+            {
+                "name": "WORD SPUD",
+                "pictureName": "wordspud.png",
+                "description": "Keep the words rolling all night! Just finish the word coming toward you, like \"Mail___.\" Mail enhancement, you say? You nailed it."
+            },
+            {
+                "name": "LIE SWATTER",
+                "pictureName": "lieswatter.png",
+                "description": "Do lobsters pee out of their heads? Did Japan vote the instant noodle the top invention of the 20th century? Or are you calling BS?"
+            },
+            {
+                "name": "FIBBAGE XL",
+                "pictureName": "fibbagexl.png",
+                "description": "Fool your friends with your lies avoid theirs, and find the (usually outrageous) truth. \"The mayor of Rabbit Hash, Kentucky is a ____.\" Go!"
+            }
+        ]
+    },
+    {
+        "name": "Jackbox Party Pack 2",
+        "bg_color": "royalblue",
+        "text_color": "azure",
+        "description_color": "white",
+        "highlight_color": "black",
+        "title_color": "orange",
+        "button_text_color": "black",
+        "picturesPath": "Pictures/Pack 2/",
+        "enabled": true,
+        "gamePath": "",
+        "games": [
+            {
+                "name": "FIBBAGE 2",
+                "pictureName": "fibbage2.png",
+                "description": "More Fibbage! Lie to your firends, aviod their lies, and spot the truth. \"In Arizona, you must obtain a permit to feed ______ to pigs.\" Go!"
+            },
+            {
+                "name": "EARWAX",
+                "pictureName": "earwax.png",
+                "description": "Cow moo? Huge explosion? Or tiny fart? Which to choose? It's the sound effects game that will leave you up to your ears in laughter!"
+            },
+            {
+                "name": "BIDIOTS",
+                "pictureName": "bidiots.png",
+                "description": "Outbid your opponents for absurd art-drawn by players themselves-and win this strangely competitive aution game! Don't be a bidiot!"
+            },
+            {
+                "name": "QUIPLASH XL",
+                "pictureName": "quiplashxl.png",
+                "description": "The laugh-a-minute battle of wits and wittiness in it's HUGEST form! Come up with \"the best name to give an ugly baby\" and win!"
+            },
+            {
+                "name": "BOMB CORP.",
+                "pictureName": "bombcorp.png",
+                "description": "Welcome to Bomb Corp. Interns of your kind must help defuse bombs in our office. It's a weird office full of bombs. Just hit start."
+            }
+        ]
+    },
+    {
+        "name": "Jackbox Party Pack 3",
+        "bg_color": "#472151",
+        "text_color": "#f2ad73",
+        "description_color": "forest green",
+        "highlight_color": "white",
+        "title_color": "#ffa345",
+        "button_text_color": "white",
+        "picturesPath": "Pictures/Pack 3/",
+        "enabled": true,
+        "gamePath": "",
+        "games": [
+            {
+                "name": "QUIPLASH 2",
+                "pictureName": "quiplash2.png",
+                "description": "The say-anything party game returns. Come up with \"a bad subsitute for dental floss\" and win! Tired of our weird prompts? Try the new Make Your Own mode!"
+            },
+            {
+                "name": "TRIVIA MURDER PARTY",
+                "pictureName": "murder.png",
+                "description": "Be the last to survive a serial killer's absurd trivia game show. But it's fun!"
+            },
+            {
+                "name": "GUESSPIONAGE",
+                "pictureName": "guesspionage.png",
+                "description": "What percentage of people have buried something in the woods? Ridden in the back of a cop car? Have a crush on someone they work with? Guess right and win!"
+            },
+            {
+                "name": "FAKIN' IT",
+                "pictureName": "fake.png",
+                "description": "Everyone gives an answer, but not everyone knows the question. One of your friends has something to hide. Find the faker before it's too late!"
+            },
+            {
+                "name": "TEE K.O.",
+                "pictureName": "teeko.png",
+                "description": "Draw pictures, write slogans, then swap them around to create your own custome t-shirt warriors. Only the most worthy novelty t-shirt will leave the tournament alive."
+            }
+        ]
+    },
+    {
+        "name": "Jackbox Party Pack 4",
+        "bg_color": "white",
+        "text_color": "darkorange",
+        "description_color": "dodger blue",
+        "highlight_color": "red",
+        "title_color": "hot pink",
+        "button_text_color": "orangered3",
+        "picturesPath": "Pictures/Pack 4/",
+        "enabled": true,
+        "gamePath": "",
+        "games": [
+            {
+                "name": "FIBBAGE 3",
+                "pictureName": "fibbage3.png",
+                "description": "Fib your way through all-new question types and the all-newer game mode Fibbage: Enough About You. Guess the weird facts about your fellow players!"
+            },
+            {
+                "name": "SURVIVE THE INTERNET",
+                "pictureName": "survivetheinternet.png",
+                "description": "Log on and strap in! It's survival of the funniest as you playfully take your friends out of context across the World Wide Web."
+            },
+            {
+                "name": "MONSTER SEEKING MONSTER",
+                "pictureName": "monsterseekingmonster.png",
+                "description": "A dating-themed game where you send funny messages and try to hide your secret monster powers. Just like real dating!"
+            },
+            {
+                "name": "BRACKETEERING",
+                "pictureName": "bracketeering.png",
+                "description": "The deranged debate tournament! \"What's the best vegetable for Benedict Cumberbatch to voice in the movie?\" Place smart bets on what will win stupid arguments."
+            },
+            {
+                "name": "CIVIC DOODLE",
+                "pictureName": "civicdoodle.png",
+                "description": "You've been hired to create murals all over Doodle Valley. Compete to see who can make the best additions in your attempt to \"beautify\" the city."
+            }
+        ]
+    },
+    {
+        "name": "Jackbox Party Pack 5",
+        "bg_color": "red",
+        "text_color": "white",
+        "description_color": "white",
+        "highlight_color": "yellow",
+        "title_color": "gold",
+        "button_text_color": "black",
+        "picturesPath": "Pictures/Pack 5/",
+        "enabled": true,
+        "gamePath": "",
+        "games": [
+            {
+                "name": "YOU DON'T KNOW JACK",
+                "pictureName": "jack.png",
+                "description": "You Don't Know Jack: Full Stream brings the classic irreverent trivia phenomenon to the wildly popular and totally fictional streaming service BINJPIPE! Their terms of service explicitly states you'll love it!"
+            },
+            {
+                "name": "SPLIT THE ROOM",
+                "pictureName": "splittheroom.png",
+                "description": "The what-if game where anything is possible! Create strange and divisive-hypothetical situations."
+            },
+            {
+                "name": "MAD VERSE CITY",
+                "pictureName": "madversecity.png",
+                "description": "The robot rap battle game! Split mad rhymes against your friends to see who's the dopest MC and who's the wackest cat."
+            },
+            {
+                "name": "ZEEPLE DOME",
+                "pictureName": "zeepledome.png",
+                "description": "The galaxy's deadliest game show! Fling yourself and win fabulous prizes!!!"
+            },
+            {
+                "name": "PATENTLY STUPID",
+                "pictureName": "patentlystupid.png",
+                "description": "The inventive drawing game where you solve bizarre problems! Pitch your ideas to rake in the cash!"
+            }
+        ]
+    },
+    {
+        "name": "Jackbox Party Pack 6",
+        "bg_color": "hot pink",
+        "text_color": "black",
+        "description_color": "white",
+        "highlight_color": "white",
+        "title_color": "cyan2",
+        "button_text_color": "black",
+        "picturesPath": "Pictures/Pack 6/",
+        "enabled": true,
+        "gamePath": "",
+        "games": [
+            {
+                "name": "TRIVIA MURDER PARTY 2",
+                "pictureName": "murder.png",
+                "description": "A serial killer is running an absurd trivia game out of the family-run Murder Hotel he grew up in. Can you survive?"
+            },
+            {
+                "name": "ROLE MODLES",
+                "pictureName": "rolemodels.png",
+                "description": "Everybody's somebody, so who are you? The planner? The flake? The sassy one? Step into the lab and find out."
+            },
+            {
+                "name": "JOKE BOAT",
+                "pictureName": "jokeboat.png",
+                "description": "Ahoy! You're an amateur comic on a fourth-rate cruise ship. Do you have what it takes to win the talent show?"
+            },
+            {
+                "name": "DICTIONARIUM",
+                "pictureName": "dictionarium.png",
+                "description": "Humans have been inventing words and phrases for centuries. Now it's your turn to contribute and entry to the pages of the Dictionarium."
+            },
+            {
+                "name": "PUSH THE BUTTON",
+                "pictureName": "pushthebutton.png",
+                "description": "Danger! Shapeshifting aliens have infiltrated your starship. Can you and your crew find them before time runs out?"
+            }
+        ]
+    },
+    {
+        "name": "Jackbox Party Pack 7",
+        "bg_color": "deep sky blue",
+        "text_color": "white",
+        "description_color": "black",
+        "highlight_color": "black",
+        "title_color": "brown1",
+        "button_text_color": "white",
+        "picturesPath": "Pictures/Pack 7/",
+        "enabled": true,
+        "gamePath": "",
+        "games": [
+            {
+                "name": "QUIPLASH 3",
+                "pictureName": "quiplash3.png",
+                "description": "The Threequel to the say-anything party game! Answer the prompts and make your friends laugh... hopefully."
+            },
+            {
+                "name": "THE DEVILS AND THE DETAILS",
+                "pictureName": "devils.png",
+                "description": "You're a family of devils who've moved to an average suburb. Can you survive the daily torture of human life?"
+            },
+            {
+                "name": "CHAMP'D UP",
+                "pictureName": "champ.png",
+                "description": "Enter the Scrawliseum, where characters fight over weird titles. Can you take down the heavy favorite?"
+            },
+            {
+                "name": "TALKING POINTS",
+                "pictureName": "talkingpoints.png",
+                "description": "Give a speech about pictures you haven't seen before. It doesn't matter if it makes sense, it's more fun if it doesn't!"
+            },
+            {
+                "name": "BLATHER 'ROUND",
+                "pictureName": "blather.png",
+                "description": "A pop culture guessing game where nothing sounds quite right! It's a good fun time experience."
+            }
+        ]
+    }
+]
