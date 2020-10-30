@@ -117,11 +117,11 @@ I have been working on this project in my free time for about a couple weeks now
 the point I can call it a version 1.0. <br />
 If I decide to continue to work on this project I have a few updates in mind. Some features I would like
 to add next are <br />
-    1.Linux and Mac Support <br />
-    2. Ability to Like/Dislike Games <br />
-        -Disliked games would not be chosen when pressing the random game button. <br />
-    3. Genre tags for games <br />
-        -Simple tags like drawing, trivia, etc. <br />
-    4. More information for the games <br />
-        -I would like information like player amount, family friendly, etc to be viewable in the Launcher <br />
-I have a few more ideas i'm unsure if I want to do but these three would make the launcher ten times better. <br />
+  * Linux and Mac Support <br />
+  * Ability to Like/Dislike Games <br />
+    * Disliked games would not be chosen when pressing the random game button. <br />
+  * Genre tags for games <br />
+    * Simple tags like drawing, trivia, etc. <br />
+  * More information for the games <br />
+    *I would like information like player amount, family friendly, etc to be viewable in the Launcher <br />
+I have a few more ideas i'm unsure if I want to do but I want to focus on these because they would make the launcher ten times better. <br />
