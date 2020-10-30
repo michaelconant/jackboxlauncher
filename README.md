@@ -23,7 +23,7 @@ the launcher. <br />
 To Be Able To Launch Games Through the Launcher Follow These Steps <br />
 Step 1: Click the setting button at the top right of the program <br />
 Step 2: In the entry box for each paste the file path to the exe for that pack or press the button
-            to the right of the entry box to open a file explorere to select the exe for the pack <br />
+&nbsp;&nbsp;&nbsp;to the right of the entry box to open a file explorere to select the exe for the pack <br />
 Step 3: Press the save buttton at the bottom right of the program <br />
 Step 4: Press the home button at the top right of the program <br />
 Step 5: The play button for the pack should now be enabled if the file path is a valid exe <br />
