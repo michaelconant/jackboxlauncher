@@ -123,5 +123,6 @@ to add next are <br />
   * Genre tags for games <br />
     * Simple tags like drawing, trivia, etc. <br />
   * More information for the games <br />
-    * I would like information like player amount, family friendly, etc to be viewable in the Launcher <br />
+    * I would like information like player amount, family friendly, etc to be viewable in the Launcher<br />
+<br />
 I have a few more ideas i'm unsure if I want to do but I want to focus on these because they would make the launcher ten times better. <br />
