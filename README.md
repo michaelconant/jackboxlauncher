@@ -86,9 +86,9 @@ For the color variables you can use valid python color names like "white" or hex
 "gamePath"              -This is the file path of the exe used to launch the pack <br />
  <br />
 "games"                 -This is an array of all the games in the pack <br />
-    "name"              -This is the name for the game in the pack <br />
-    "pictureName"       -Name of the picture in the folder path given by "picturesPath" <br />
-    "description"       -Text description of the game
+&nbsp;&nbsp;&nbsp;&nbsp;"name"              -This is the name for the game in the pack <br />
+&nbsp;&nbsp;&nbsp;&nbsp;"pictureName"       -Name of the picture in the folder path given by "picturesPath" <br />
+&nbsp;&nbsp;&nbsp;&nbsp;"description"       -Text description of the game
 
 
 
