@@ -3,7 +3,7 @@ Jackbox Game Launcher
 
 Version 1.0
 
-The Jackbox Game Laucher shows all the games in each Jackbox pack in one spot.
+The Jackbox Game Laucher shows all the games in each Jackbox pack in one spot. 
 Using this you can view basic information from each game and launch the pack of the game
 you are viewing. There is even a random game button for when your friends are too lazy
 to pick a game. It will not launch the specific game in the pack but it's purpose is
@@ -14,19 +14,19 @@ mainly to view all the games in a nice way similar to the main menus of the pack
 Using the Launcher
 ---------------
 
-Step 1: Launch the include exe
+Step 1: Launch the include exe <br />
 
 It is as simple as that but the launcher by default should have all the packs enabled 
 but no file paths for them. This means they will be viewable but not launchable through
-the launcher.
-
-To Be Able To Launch Games Through the Launcher Follow These Steps
-Step 1: Click the setting button at the top right of the program
+the launcher. <br />
+ <br />
+To Be Able To Launch Games Through the Launcher Follow These Steps <br />
+Step 1: Click the setting button at the top right of the program <br />
 Step 2: In the entry box for each paste the file path to the exe for that pack or press the button
-            to the right of the entry box to open a file explorere to select the exe for the pack
-Step 3: Press the save buttton at the bottom right of the program
-Step 4: Press the home button at the top right of the program
-Step 5: The play button for the pack should now be enabled if the file path is a valid exe
+            to the right of the entry box to open a file explorere to select the exe for the pack <br />
+Step 3: Press the save buttton at the bottom right of the program <br />
+Step 4: Press the home button at the top right of the program <br />
+Step 5: The play button for the pack should now be enabled if the file path is a valid exe <br />
 
 
 Adding/Removing/Editing Games
