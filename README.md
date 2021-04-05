@@ -142,3 +142,6 @@ My guess is that no one is reading this but if you are I am happy to tell you th
 I should have the project back to it's previos state, in terms of features, within the next few days. Then I will upload the source code and compiled build for version 1.1. <br />
 <br />
 If I continue at my current pace I should be done with the next update after that which will include features like a toggle for swapping between a default theme and pack specific themes, a spot to put the amount of players playing so that the random game button doesn't recommend games that don't support your amount of players, and hopfully a like/dislike system(I might not have time for this one if I want the update to come out in a reasonable time).
+<br />
+EDIT 4/4/2021 <br />
+I finished rewriting the project to be back to it's original state! It still is no where near perfect but it is miles better than it was before. I was able to add a default theme function to so now you can change the theme to either be pack dependent or global. I think I should be able to add an option to put the amount of players so that it doesn't recommend games you can't play but that might take a few days. After that I will add the like/dislike feature, this to will probably take a few days. Verion 1.1 should be out by the end of the week.
