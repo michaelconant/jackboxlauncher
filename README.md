@@ -65,7 +65,7 @@ This is an example of what the games.json file looks like with one entry. <br />
 ```
 
 I did not hard code in a max amount of packs or games for each pack but GUI is not yet designed to infinitly scale. <br />
-This means you can put as mony games/packs as you want but they appear as a list they might go off the screen. <br />
+This means you can put as many games/packs as you want but they many appear off screen so until I add a scrolling feature I would limit the amount of games/packs in the file. <br />
 
 
 
