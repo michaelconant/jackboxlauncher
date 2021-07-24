@@ -34,9 +34,13 @@ Basic Settings
 ---------------
 ![Preview](https://i.imgur.com/cEyY1G1.png)
 Defualt Theme (Toggle)              -When off each pack will have their own unique color scheme. When on a default color scheme will be used for all packs.
+<br />
 Players (N/A, 1-17+)                -When setting it to a number the random game button will only choose games that work with the number of players selected.
+<br />
 Like Status Effects Random (Toggle) -When off likes/dislikes will not effect the random game button. When likes/dislikes are weighted so disliked games show up less and liked games show up more. The weight of likes/dislikes can be changed in general_settings.json.
+<br />
 Random Excludes Dislikes (Toggle)   -When on disliked games will not be selected by the random game button.
+<br />
 
 Settings Files
 ---------------
@@ -107,10 +111,10 @@ For the color variables you can use valid python color names like "white" or hex
 "games"                 -This is an array of all the games in the pack <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"name"              -This is the name for the game in the pack <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"pictureName"       -Name of the picture in the folder path given by "picturesPath" <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"description"       -Text description of the game
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"playerMin"         -Minimum number of players required to play the game
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"playerMax"         -Maximum number of players required to play the game
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"like"              -Like status of the game (-1=dislike,0=neutral,1=like)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"description"       -Text description of the game <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"playerMin"         -Minimum number of players required to play the game <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"playerMax"         -Maximum number of players required to play the game <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"like"              -Like status of the game (-1=dislike,0=neutral,1=like) <br />
 
 
 
