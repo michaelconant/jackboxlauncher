@@ -149,6 +149,6 @@ to add next are <br />
 <br />
 I have a few more ideas i'm unsure if I want to do but I want to focus on these because they would make the launcher ten times better. <br />
 
-UPDATE
+UPDATE: Current status of project.
 ---------------
 This project probably won't get updated and if it does it won't be anytime soon, unless I get notified about or find a bug.
