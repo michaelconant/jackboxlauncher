@@ -8,13 +8,16 @@
         "title_color": "deep pink",
         "button_text_color": "deep pink",
         "picturesPath": "Pictures/Drawful 2/",
-        "enabled": false,
-        "gamePath": "",
+        "enabled": true,
+        "gamePath": "E:\\Games\\Steam\\steamapps\\common\\Drawful 2\\Drawful 2.exe",
         "games": [
             {
                 "name": "Drawful 2",
                 "pictureName": "drawful2.png",
-                "description": "For 3-8 players and an audience of thousands! Your phones or tablets are your controllers! The game of terrible drawings and hilariously wrong answers."
+                "description": "For 3-8 players and an audience of thousands! Your phones or tablets are your controllers! The game of terrible drawings and hilariously wrong answers.",
+                "playerMin": 3,
+                "playerMax": 8,
+                "like": 0
             }
         ]
     },
@@ -33,7 +36,10 @@
             {
                 "name": "Fibbage XL",
                 "pictureName": "fibbagexl.png",
-                "description": "Fool your friends with your lies avoid theirs, and find the (usually outrageous) truth. \"The mayor of Rabbit Hash, Kentucky is a ____.\" Go!"
+                "description": "Fool your friends with your lies avoid theirs, and find the (usually outrageous) truth. \"The mayor of Rabbit Hash, Kentucky is a ____.\" Go!",
+                "playerMin": 2,
+                "playerMax": 8,
+                "like": 0
             }
         ]
     },
@@ -52,7 +58,10 @@
             {
                 "name": "Quiplash",
                 "pictureName": "Quiplash.png",
-                "description": "For 3-8 Players and an Audience of thousands! Your phones or tablets are your controllers! The gut-busting, say-anything, no-rules party game!"
+                "description": "For 3-8 Players and an Audience of thousands! Your phones or tablets are your controllers! The gut-busting, say-anything, no-rules party game!",
+                "playerMin": 3,
+                "playerMax": 8,
+                "like": 0
             }
         ]
     },
@@ -71,7 +80,10 @@
             {
                 "name": "Quiplash 2 InterLASHional",
                 "pictureName": "quiplash2.png",
-                "description": "The \"say anything\" party game is going international! All the hilarious content from Quiplash 2, now in French, Italian, German, and Spanish! With 100 NEW prompts in each language! (And you can still play in boring old English.) Get this QUINTILINGUAL Quiplash now, and take your next party global!"
+                "description": "The \"say anything\" party game is going international! All the hilarious content from Quiplash 2, now in French, Italian, German, and Spanish! With 100 NEW prompts in each language! (And you can still play in boring old English.) Get this QUINTILINGUAL Quiplash now, and take your next party global!",
+                "playerMin": 3,
+                "playerMax": 8,
+                "like": 0
             }
         ]
     },
@@ -84,33 +96,48 @@
         "title_color": "dark orange",
         "button_text_color": "black",
         "picturesPath": "Pictures/Pack 1/",
-        "enabled": true,
-        "gamePath": "",
+        "enabled": false,
+        "gamePath": "E:/Games/Epic Games/JackboxPartyPack1/The Jackbox Party Pack.exe",
         "games": [
             {
                 "name": "YOU DON'T KNOW JACK 2015",
                 "pictureName": "jack.png",
-                "description": "The smart-ass trivia show that started it all! Hundreds of all-new twisted trivia questions and everyone's favorite host, Cookie Masterson!"
+                "description": "The smart-ass trivia show that started it all! Hundreds of all-new twisted trivia questions and everyone's favorite host, Cookie Masterson!",
+                "playerMin": 1,
+                "playerMax": 4,
+                "like": 0
             },
             {
                 "name": "DRAWFUL",
                 "pictureName": "drawful.png",
-                "description": "The drawing game that takes all other drawing games and draws little mustaches on them. Can't draw? No Problem! It's funnier that way!"
+                "description": "The drawing game that takes all other drawing games and draws little mustaches on them. Can't draw? No Problem! It's funnier that way!",
+                "playerMin": 3,
+                "playerMax": 8,
+                "like": 0
             },
             {
                 "name": "WORD SPUD",
                 "pictureName": "wordspud.png",
-                "description": "Keep the words rolling all night! Just finish the word coming toward you, like \"Mail___.\" Mail enhancement, you say? You nailed it."
+                "description": "Keep the words rolling all night! Just finish the word coming toward you, like \"Mail___.\" Mail enhancement, you say? You nailed it.",
+                "playerMin": 2,
+                "playerMax": 8,
+                "like": 0
             },
             {
                 "name": "LIE SWATTER",
                 "pictureName": "lieswatter.png",
-                "description": "Do lobsters pee out of their heads? Did Japan vote the instant noodle the top invention of the 20th century? Or are you calling BS?"
+                "description": "Do lobsters pee out of their heads? Did Japan vote the instant noodle the top invention of the 20th century? Or are you calling BS?",
+                "playerMin": 1,
+                "playerMax": 100,
+                "like": 0
             },
             {
                 "name": "FIBBAGE XL",
                 "pictureName": "fibbagexl.png",
-                "description": "Fool your friends with your lies avoid theirs, and find the (usually outrageous) truth. \"The mayor of Rabbit Hash, Kentucky is a ____.\" Go!"
+                "description": "Fool your friends with your lies avoid theirs, and find the (usually outrageous) truth. \"The mayor of Rabbit Hash, Kentucky is a ____.\" Go!",
+                "playerMin": 2,
+                "playerMax": 8,
+                "like": 0
             }
         ]
     },
@@ -124,32 +151,47 @@
         "button_text_color": "black",
         "picturesPath": "Pictures/Pack 2/",
         "enabled": true,
-        "gamePath": "",
+        "gamePath": "E:\\Games\\Steam\\steamapps\\common\\The Jackbox Party Pack 2\\The Jackbox Party Pack 2.exe",
         "games": [
             {
                 "name": "FIBBAGE 2",
                 "pictureName": "fibbage2.png",
-                "description": "More Fibbage! Lie to your firends, aviod their lies, and spot the truth. \"In Arizona, you must obtain a permit to feed ______ to pigs.\" Go!"
+                "description": "More Fibbage! Lie to your firends, aviod their lies, and spot the truth. \"In Arizona, you must obtain a permit to feed ______ to pigs.\" Go!",
+                "playerMin": 2,
+                "playerMax": 8,
+                "like": 0
             },
             {
                 "name": "EARWAX",
                 "pictureName": "earwax.png",
-                "description": "Cow moo? Huge explosion? Or tiny fart? Which to choose? It's the sound effects game that will leave you up to your ears in laughter!"
+                "description": "Cow moo? Huge explosion? Or tiny fart? Which to choose? It's the sound effects game that will leave you up to your ears in laughter!",
+                "playerMin": 3,
+                "playerMax": 8,
+                "like": 0
             },
             {
                 "name": "BIDIOTS",
                 "pictureName": "bidiots.png",
-                "description": "Outbid your opponents for absurd art-drawn by players themselves-and win this strangely competitive aution game! Don't be a bidiot!"
+                "description": "Outbid your opponents for absurd art-drawn by players themselves-and win this strangely competitive aution game! Don't be a bidiot!",
+                "playerMin": 3,
+                "playerMax": 6,
+                "like": 0
             },
             {
                 "name": "QUIPLASH XL",
                 "pictureName": "quiplashxl.png",
-                "description": "The laugh-a-minute battle of wits and wittiness in it's HUGEST form! Come up with \"the best name to give an ugly baby\" and win!"
+                "description": "The laugh-a-minute battle of wits and wittiness in it's HUGEST form! Come up with \"the best name to give an ugly baby\" and win!",
+                "playerMin": 3,
+                "playerMax": 8,
+                "like": 0
             },
             {
                 "name": "BOMB CORP.",
                 "pictureName": "bombcorp.png",
-                "description": "Welcome to Bomb Corp. Interns of your kind must help defuse bombs in our office. It's a weird office full of bombs. Just hit start."
+                "description": "Welcome to Bomb Corp. Interns of your kind must help defuse bombs in our office. It's a weird office full of bombs. Just hit start.",
+                "playerMin": 1,
+                "playerMax": 4,
+                "like": 0
             }
         ]
     },
@@ -163,32 +205,47 @@
         "button_text_color": "white",
         "picturesPath": "Pictures/Pack 3/",
         "enabled": true,
-        "gamePath": "",
+        "gamePath": "E:\\Games\\Steam\\steamapps\\common\\The Jackbox Party Pack 3\\The Jackbox Party Pack 3.exe",
         "games": [
             {
                 "name": "QUIPLASH 2",
                 "pictureName": "quiplash2.png",
-                "description": "The say-anything party game returns. Come up with \"a bad subsitute for dental floss\" and win! Tired of our weird prompts? Try the new Make Your Own mode!"
+                "description": "The say-anything party game returns. Come up with \"a bad subsitute for dental floss\" and win! Tired of our weird prompts? Try the new Make Your Own mode!",
+                "playerMin": 3,
+                "playerMax": 8,
+                "like": 0
             },
             {
                 "name": "TRIVIA MURDER PARTY",
                 "pictureName": "murder.png",
-                "description": "Be the last to survive a serial killer's absurd trivia game show. But it's fun!"
+                "description": "Be the last to survive a serial killer's absurd trivia game show. But it's fun!",
+                "playerMin": 1,
+                "playerMax": 8,
+                "like": 0
             },
             {
                 "name": "GUESSPIONAGE",
                 "pictureName": "guesspionage.png",
-                "description": "What percentage of people have buried something in the woods? Ridden in the back of a cop car? Have a crush on someone they work with? Guess right and win!"
+                "description": "What percentage of people have buried something in the woods? Ridden in the back of a cop car? Have a crush on someone they work with? Guess right and win!",
+                "playerMin": 2,
+                "playerMax": 8,
+                "like": 0
             },
             {
                 "name": "FAKIN' IT",
                 "pictureName": "fake.png",
-                "description": "Everyone gives an answer, but not everyone knows the question. One of your friends has something to hide. Find the faker before it's too late!"
+                "description": "Everyone gives an answer, but not everyone knows the question. One of your friends has something to hide. Find the faker before it's too late!",
+                "playerMin": 3,
+                "playerMax": 6,
+                "like": 0
             },
             {
                 "name": "TEE K.O.",
                 "pictureName": "teeko.png",
-                "description": "Draw pictures, write slogans, then swap them around to create your own custome t-shirt warriors. Only the most worthy novelty t-shirt will leave the tournament alive."
+                "description": "Draw pictures, write slogans, then swap them around to create your own custome t-shirt warriors. Only the most worthy novelty t-shirt will leave the tournament alive.",
+                "playerMin": 3,
+                "playerMax": 8,
+                "like": 0
             }
         ]
     },
@@ -202,32 +259,47 @@
         "button_text_color": "orangered3",
         "picturesPath": "Pictures/Pack 4/",
         "enabled": true,
-        "gamePath": "",
+        "gamePath": "E:\\Games\\Steam\\steamapps\\common\\The Jackbox Party Pack 4\\The Jackbox Party Pack 4.exe",
         "games": [
             {
                 "name": "FIBBAGE 3",
                 "pictureName": "fibbage3.png",
-                "description": "Fib your way through all-new question types and the all-newer game mode Fibbage: Enough About You. Guess the weird facts about your fellow players!"
+                "description": "Fib your way through all-new question types and the all-newer game mode Fibbage: Enough About You. Guess the weird facts about your fellow players!",
+                "playerMin": 2,
+                "playerMax": 8,
+                "like": 0
             },
             {
                 "name": "SURVIVE THE INTERNET",
                 "pictureName": "survivetheinternet.png",
-                "description": "Log on and strap in! It's survival of the funniest as you playfully take your friends out of context across the World Wide Web."
+                "description": "Log on and strap in! It's survival of the funniest as you playfully take your friends out of context across the World Wide Web.",
+                "playerMin": 3,
+                "playerMax": 8,
+                "like": 0
             },
             {
                 "name": "MONSTER SEEKING MONSTER",
                 "pictureName": "monsterseekingmonster.png",
-                "description": "A dating-themed game where you send funny messages and try to hide your secret monster powers. Just like real dating!"
+                "description": "A dating-themed game where you send funny messages and try to hide your secret monster powers. Just like real dating!",
+                "playerMin": 3,
+                "playerMax": 7,
+                "like": 0
             },
             {
                 "name": "BRACKETEERING",
                 "pictureName": "bracketeering.png",
-                "description": "The deranged debate tournament! \"What's the best vegetable for Benedict Cumberbatch to voice in the movie?\" Place smart bets on what will win stupid arguments."
+                "description": "The deranged debate tournament! \"What's the best vegetable for Benedict Cumberbatch to voice in the movie?\" Place smart bets on what will win stupid arguments.",
+                "playerMin": 3,
+                "playerMax": 16,
+                "like": 0
             },
             {
                 "name": "CIVIC DOODLE",
                 "pictureName": "civicdoodle.png",
-                "description": "You've been hired to create murals all over Doodle Valley. Compete to see who can make the best additions in your attempt to \"beautify\" the city."
+                "description": "You've been hired to create murals all over Doodle Valley. Compete to see who can make the best additions in your attempt to \"beautify\" the city.",
+                "playerMin": 3,
+                "playerMax": 8,
+                "like": 0
             }
         ]
     },
@@ -241,32 +313,47 @@
         "button_text_color": "black",
         "picturesPath": "Pictures/Pack 5/",
         "enabled": true,
-        "gamePath": "",
+        "gamePath": "E:\\Games\\Steam\\steamapps\\common\\The Jackbox Party Pack 5\\The Jackbox Party Pack 5.exe",
         "games": [
             {
                 "name": "YOU DON'T KNOW JACK",
                 "pictureName": "jack.png",
-                "description": "You Don't Know Jack: Full Stream brings the classic irreverent trivia phenomenon to the wildly popular and totally fictional streaming service BINJPIPE! Their terms of service explicitly states you'll love it!"
+                "description": "You Don't Know Jack: Full Stream brings the classic irreverent trivia phenomenon to the wildly popular and totally fictional streaming service BINJPIPE! Their terms of service explicitly states you'll love it!",
+                "playerMin": 1,
+                "playerMax": 8,
+                "like": 0
             },
             {
                 "name": "SPLIT THE ROOM",
                 "pictureName": "splittheroom.png",
-                "description": "The what-if game where anything is possible! Create strange and divisive-hypothetical situations."
+                "description": "The what-if game where anything is possible! Create strange and divisive-hypothetical situations.",
+                "playerMin": 3,
+                "playerMax": 8,
+                "like": 0
             },
             {
                 "name": "MAD VERSE CITY",
                 "pictureName": "madversecity.png",
-                "description": "The robot rap battle game! Split mad rhymes against your friends to see who's the dopest MC and who's the wackest cat."
+                "description": "The robot rap battle game! Split mad rhymes against your friends to see who's the dopest MC and who's the wackest cat.",
+                "playerMin": 3,
+                "playerMax": 8,
+                "like": 0
             },
             {
                 "name": "ZEEPLE DOME",
                 "pictureName": "zeepledome.png",
-                "description": "The galaxy's deadliest game show! Fling yourself and win fabulous prizes!!!"
+                "description": "The galaxy's deadliest game show! Fling yourself and win fabulous prizes!!!",
+                "playerMin": 1,
+                "playerMax": 6,
+                "like": -1
             },
             {
                 "name": "PATENTLY STUPID",
                 "pictureName": "patentlystupid.png",
-                "description": "The inventive drawing game where you solve bizarre problems! Pitch your ideas to rake in the cash!"
+                "description": "The inventive drawing game where you solve bizarre problems! Pitch your ideas to rake in the cash!",
+                "playerMin": 3,
+                "playerMax": 8,
+                "like": 0
             }
         ]
     },
@@ -280,32 +367,47 @@
         "button_text_color": "black",
         "picturesPath": "Pictures/Pack 6/",
         "enabled": true,
-        "gamePath": "",
+        "gamePath": "E:\\Games\\Steam\\steamapps\\common\\The Jackbox Party Pack 6\\The Jackbox Party Pack 6.exe",
         "games": [
             {
                 "name": "TRIVIA MURDER PARTY 2",
                 "pictureName": "murder.png",
-                "description": "A serial killer is running an absurd trivia game out of the family-run Murder Hotel he grew up in. Can you survive?"
+                "description": "A serial killer is running an absurd trivia game out of the family-run Murder Hotel he grew up in. Can you survive?",
+                "playerMin": 1,
+                "playerMax": 8,
+                "like": 0
             },
             {
                 "name": "ROLE MODLES",
                 "pictureName": "rolemodels.png",
-                "description": "Everybody's somebody, so who are you? The planner? The flake? The sassy one? Step into the lab and find out."
+                "description": "Everybody's somebody, so who are you? The planner? The flake? The sassy one? Step into the lab and find out.",
+                "playerMin": 3,
+                "playerMax": 8,
+                "like": 0
             },
             {
                 "name": "JOKE BOAT",
                 "pictureName": "jokeboat.png",
-                "description": "Ahoy! You're an amateur comic on a fourth-rate cruise ship. Do you have what it takes to win the talent show?"
+                "description": "Ahoy! You're an amateur comic on a fourth-rate cruise ship. Do you have what it takes to win the talent show?",
+                "playerMin": 3,
+                "playerMax": 8,
+                "like": 0
             },
             {
                 "name": "DICTIONARIUM",
                 "pictureName": "dictionarium.png",
-                "description": "Humans have been inventing words and phrases for centuries. Now it's your turn to contribute and entry to the pages of the Dictionarium."
+                "description": "Humans have been inventing words and phrases for centuries. Now it's your turn to contribute and entry to the pages of the Dictionarium.",
+                "playerMin": 3,
+                "playerMax": 8,
+                "like": 0
             },
             {
                 "name": "PUSH THE BUTTON",
                 "pictureName": "pushthebutton.png",
-                "description": "Danger! Shapeshifting aliens have infiltrated your starship. Can you and your crew find them before time runs out?"
+                "description": "Danger! Shapeshifting aliens have infiltrated your starship. Can you and your crew find them before time runs out?",
+                "playerMin": 4,
+                "playerMax": 10,
+                "like": 0
             }
         ]
     },
@@ -319,32 +421,47 @@
         "button_text_color": "white",
         "picturesPath": "Pictures/Pack 7/",
         "enabled": true,
-        "gamePath": "",
+        "gamePath": "E:\\Games\\Steam\\steamapps\\common\\The Jackbox Party Pack 7\\The Jackbox Party Pack 7.exe",
         "games": [
             {
                 "name": "QUIPLASH 3",
                 "pictureName": "quiplash3.png",
-                "description": "The Threequel to the say-anything party game! Answer the prompts and make your friends laugh... hopefully."
+                "description": "The Threequel to the say-anything party game! Answer the prompts and make your friends laugh... hopefully.",
+                "playerMin": 3,
+                "playerMax": 8,
+                "like": 0
             },
             {
                 "name": "THE DEVILS AND THE DETAILS",
                 "pictureName": "devils.png",
-                "description": "You're a family of devils who've moved to an average suburb. Can you survive the daily torture of human life?"
+                "description": "You're a family of devils who've moved to an average suburb. Can you survive the daily torture of human life?",
+                "playerMin": 3,
+                "playerMax": 8,
+                "like": 0
             },
             {
                 "name": "CHAMP'D UP",
                 "pictureName": "champ.png",
-                "description": "Enter the Scrawliseum, where characters fight over weird titles. Can you take down the heavy favorite?"
+                "description": "Enter the Scrawliseum, where characters fight over weird titles. Can you take down the heavy favorite?",
+                "playerMin": 3,
+                "playerMax": 8,
+                "like": 0
             },
             {
                 "name": "TALKING POINTS",
                 "pictureName": "talkingpoints.png",
-                "description": "Give a speech about pictures you haven't seen before. It doesn't matter if it makes sense, it's more fun if it doesn't!"
+                "description": "Give a speech about pictures you haven't seen before. It doesn't matter if it makes sense, it's more fun if it doesn't!",
+                "playerMin": 3,
+                "playerMax": 8,
+                "like": 0
             },
             {
                 "name": "BLATHER 'ROUND",
                 "pictureName": "blather.png",
-                "description": "A pop culture guessing game where nothing sounds quite right! It's a good fun time experience."
+                "description": "A pop culture guessing game where nothing sounds quite right! It's a good fun time experience.",
+                "playerMin": 2,
+                "playerMax": 6,
+                "like": 0
             }
         ]
     }

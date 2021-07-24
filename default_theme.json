@@ -1,0 +1,9 @@
+{
+    "enabled": true,
+    "bg_color": "gray14",
+    "text_color": "white",
+    "description_color": "#03DAC6",
+    "highlight_color": "#BB86FC",
+    "title_color": "#03DAC6",
+    "button_text_color": "#BB86FC"
+}
