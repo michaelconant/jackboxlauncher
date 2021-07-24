@@ -11,6 +11,10 @@ mainly to view all the games in a nice way similar to the main menus of the pack
 <br />
 ![Preview](https://i.imgur.com/rgEf6uz.gif)
 
+Download
+---------------
+[Current Version 1.2](https://github.com/project-curiosity/jackboxlauncher/releases/tag/1.2)
+
 Using the Launcher
 ---------------
 
