@@ -1,3 +1,5 @@
+#This is the settings menu
+
 from tkinter import *
 from tkinter import filedialog  #for files
 

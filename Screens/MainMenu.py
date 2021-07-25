@@ -1,3 +1,5 @@
+#This is the main menu where you can view all the games
+
 from tkinter import * 
 
 import os                           #Used to test if a file path is an exe
@@ -20,9 +22,6 @@ class MainMenu:
 
         self.rightFrame = Frame(self.frame)
         self.rightFrame.pack(side=RIGHT)
-
-        self.bottomFrame = Frame(self.frame)
-        self.bottomFrame.pack(side=BOTTOM)
 
         #Buttons
 
@@ -121,6 +120,7 @@ class MainMenu:
     def forget(self):
         self.frame.pack_forget()
 
+    #updates the widget colors using the current color settings
     def updateColors(self, packs):
         if packs.settings['defaultThemeEnabled']:
             bg_color = packs.defaultTheme['bg_color']
@@ -150,7 +150,6 @@ class MainMenu:
         self.topFrame['bg'] = bg_color
         self.leftFrame['bg'] = bg_color
         self.rightFrame['bg'] = bg_color
-        self.bottomFrame['bg'] = bg_color
 
         self.titleLabel['bg'] = bg_color
         self.titleLabel['fg'] = title_color
@@ -179,6 +178,7 @@ class MainMenu:
             else:
                 self.gameLabels[i]['fg'] = highlight_color
 
+    #change to a specific game using the index
     def changeGame(self, packs, gamePos):
         if self.gameLabels and gamePos >= 0 and gamePos < len(packs.data[packs.currentPack]['games']):
 
@@ -203,10 +203,11 @@ class MainMenu:
         else:
             print("ERROR Index out of range - MainMenu.changeGame")
 
+    #change to a specific pack using the index
     def changePack(self, packs, packPos):
         if packPos >= 0 and packPos < len(packs.data):
 
-            #tempPos = 0 if packs.currentPack > len(packs[packPos]['games']) else packs.currentPack
+            #tempPos = 0 if packs.currentPack > len(packs.data[packPos]['games']) else packs.currentPack
             tempGamePos = (packs.currentGame, 0)[packs.currentGame >= len(packs.data[packPos]['games'])]
 
             self.titleLabel.config(text=packs.data[packPos]['name'])
@@ -238,6 +239,7 @@ class MainMenu:
         else:
             print("ERROR Index out of range - MainMenu.changePack")
 
+    #shift to a pack before or after the current pack using the offset value
     def shiftPack(self, packs, offset):
 
         try:

@@ -1,3 +1,5 @@
+#This screen displays when there was an error with the json files
+
 from tkinter import * 
 
 class JsonErrorScreen:
@@ -9,7 +11,6 @@ class JsonErrorScreen:
 
         self.frame['bg'] = bg_color
 
-        #
         self.titleLabel = Label(self.frame, padx=50, bg=bg_color, fg='white', font=("Arial Bold", 160), text=':(')
         self.titleLabel.pack(side=LEFT)
 

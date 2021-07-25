@@ -1,3 +1,5 @@
+#this screen appears when the user disables all the packs
+
 from tkinter import * 
 from Classes.PictureButton import *
 
