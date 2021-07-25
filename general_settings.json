@@ -1,8 +1,8 @@
 {
-    "defaultThemeEnabled": true,
-    "currentPlayers": 6,
-    "likeWeight": true,
-    "excludeDislikes": true,
+    "defaultThemeEnabled": false,
+    "currentPlayers": 0,
+    "likeWeight": false,
+    "excludeDislikes": false,
     "dislikeValue": 1,
     "normalValue": 2,
     "likeValue": 3
