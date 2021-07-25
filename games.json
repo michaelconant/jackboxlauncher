@@ -9,7 +9,7 @@
         "button_text_color": "deep pink",
         "picturesPath": "Pictures/Drawful 2/",
         "enabled": true,
-        "gamePath": "E:\\Games\\Steam\\steamapps\\common\\Drawful 2\\Drawful 2.exe",
+        "gamePath": "",
         "games": [
             {
                 "name": "Drawful 2",
@@ -30,7 +30,7 @@
         "title_color": "deep pink",
         "button_text_color": "deep pink",
         "picturesPath": "Pictures/Fibbage XL/",
-        "enabled": false,
+        "enabled": true,
         "gamePath": "",
         "games": [
             {
@@ -52,7 +52,7 @@
         "title_color": "deep pink",
         "button_text_color": "deep pink",
         "picturesPath": "Pictures/Quiplash/",
-        "enabled": false,
+        "enabled": true,
         "gamePath": "",
         "games": [
             {
@@ -74,7 +74,7 @@
         "title_color": "deep pink",
         "button_text_color": "deep pink",
         "picturesPath": "Pictures/Quiplash 2 InterLASHional/",
-        "enabled": false,
+        "enabled": true,
         "gamePath": "",
         "games": [
             {
@@ -96,8 +96,8 @@
         "title_color": "dark orange",
         "button_text_color": "black",
         "picturesPath": "Pictures/Pack 1/",
-        "enabled": false,
-        "gamePath": "E:/Games/Epic Games/JackboxPartyPack1/The Jackbox Party Pack.exe",
+        "enabled": true,
+        "gamePath": "",
         "games": [
             {
                 "name": "YOU DON'T KNOW JACK 2015",
@@ -151,7 +151,7 @@
         "button_text_color": "black",
         "picturesPath": "Pictures/Pack 2/",
         "enabled": true,
-        "gamePath": "E:\\Games\\Steam\\steamapps\\common\\The Jackbox Party Pack 2\\The Jackbox Party Pack 2.exe",
+        "gamePath": "",
         "games": [
             {
                 "name": "FIBBAGE 2",
@@ -205,7 +205,7 @@
         "button_text_color": "white",
         "picturesPath": "Pictures/Pack 3/",
         "enabled": true,
-        "gamePath": "E:\\Games\\Steam\\steamapps\\common\\The Jackbox Party Pack 3\\The Jackbox Party Pack 3.exe",
+        "gamePath": "",
         "games": [
             {
                 "name": "QUIPLASH 2",
@@ -259,7 +259,7 @@
         "button_text_color": "orangered3",
         "picturesPath": "Pictures/Pack 4/",
         "enabled": true,
-        "gamePath": "E:\\Games\\Steam\\steamapps\\common\\The Jackbox Party Pack 4\\The Jackbox Party Pack 4.exe",
+        "gamePath": "",
         "games": [
             {
                 "name": "FIBBAGE 3",
@@ -313,7 +313,7 @@
         "button_text_color": "black",
         "picturesPath": "Pictures/Pack 5/",
         "enabled": true,
-        "gamePath": "E:\\Games\\Steam\\steamapps\\common\\The Jackbox Party Pack 5\\The Jackbox Party Pack 5.exe",
+        "gamePath": "",
         "games": [
             {
                 "name": "YOU DON'T KNOW JACK",
@@ -367,7 +367,7 @@
         "button_text_color": "black",
         "picturesPath": "Pictures/Pack 6/",
         "enabled": true,
-        "gamePath": "E:\\Games\\Steam\\steamapps\\common\\The Jackbox Party Pack 6\\The Jackbox Party Pack 6.exe",
+        "gamePath": "",
         "games": [
             {
                 "name": "TRIVIA MURDER PARTY 2",
@@ -421,7 +421,7 @@
         "button_text_color": "white",
         "picturesPath": "Pictures/Pack 7/",
         "enabled": true,
-        "gamePath": "E:\\Games\\Steam\\steamapps\\common\\The Jackbox Party Pack 7\\The Jackbox Party Pack 7.exe",
+        "gamePath": "",
         "games": [
             {
                 "name": "QUIPLASH 3",
