@@ -464,5 +464,59 @@
                 "like": 0
             }
         ]
+    },
+    {
+        "name": "Jackbox Party Pack 8",
+        "bg_color": "#fffec8",
+        "text_color": "black",
+        "description_color": "#265b5f",
+        "highlight_color": "white",
+        "title_color": "brown1",
+        "button_text_color": "white",
+        "picturesPath": "Pictures/Pack 8/",
+        "enabled": true,
+        "gamePath": "",
+        "games": [
+            {
+                "name": "DRAWFUL: ANIMATE",
+                "pictureName": "drawfulanimate.png",
+                "description": "Watch your terrible drawings come to life!",
+                "playerMin": 3,
+                "playerMax": 10,
+                "like": 0
+            },
+            {
+                "name": "THE WHEEL OF ENORMOUS PROPORTIONS",
+                "pictureName": "wheelofenormousproportions.png",
+                "description": "The trivia test spin fest!",
+                "playerMin": 2,
+                "playerMax": 8,
+                "like": 0
+            },
+            {
+                "name": "JOB JOB",
+                "pictureName": "jobjob.png",
+                "description": "Use other people's words to score the job!",
+                "playerMin": 3,
+                "playerMax": 10,
+                "like": 0
+            },
+            {
+                "name": "THE POLL MINE",
+                "pictureName": "pollmine.png",
+                "description": "Use teamwork to guess your friends' answers and escape!",
+                "playerMin": 3,
+                "playerMax": 8,
+                "like": 0
+            },
+            {
+                "name": "WEAPONS DRAWN",
+                "pictureName": "blather.png",
+                "description": "A social deduction game where everyone did it!",
+                "playerMin": 4,
+                "playerMax": 8,
+                "like": 0
+            }
+        ]
     }
 ]
