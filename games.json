@@ -511,7 +511,7 @@
             },
             {
                 "name": "WEAPONS DRAWN",
-                "pictureName": "blather.png",
+                "pictureName": "weaponsdrawn.png",
                 "description": "A social deduction game where everyone did it!",
                 "playerMin": 4,
                 "playerMax": 8,
