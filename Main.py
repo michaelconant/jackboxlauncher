@@ -24,7 +24,7 @@ from functions import *
 ##############################################################
 
 root = Tk()
-root.title("Jackbox Game Launcher v1.2")        #Name of program window
+root.title("Jackbox Game Launcher v1.2.1")        #Name of program window
 try:
     root.iconbitmap('logo.ico')                 #Icon that shows at the top left
 except:
