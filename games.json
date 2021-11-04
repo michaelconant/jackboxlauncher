@@ -382,7 +382,7 @@
                 "pictureName": "rolemodels.png",
                 "description": "Everybody's somebody, so who are you? The planner? The flake? The sassy one? Step into the lab and find out.",
                 "playerMin": 3,
-                "playerMax": 8,
+                "playerMax": 6,
                 "like": 0
             },
             {
