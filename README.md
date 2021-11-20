@@ -1,7 +1,7 @@
 Jackbox Game Launcher
 =============
 
-Version 1.2
+Version 1.2.1
 
 The Jackbox Game Laucher shows all the games in each Jackbox pack in one spot. 
 Using this you can view basic information from each game and launch the pack of the game
