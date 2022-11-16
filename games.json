@@ -12,7 +12,7 @@
         "gamePath": "",
         "games": [
             {
-                "name": "Drawful 2",
+                "name": "DRAWFUL 2",
                 "pictureName": "drawful2.png",
                 "description": "For 3-8 players and an audience of thousands! Your phones or tablets are your controllers! The game of terrible drawings and hilariously wrong answers.",
                 "playerMin": 3,
@@ -34,7 +34,7 @@
         "gamePath": "",
         "games": [
             {
-                "name": "Fibbage XL",
+                "name": "FIBBAGE XL",
                 "pictureName": "fibbagexl.png",
                 "description": "Fool your friends with your lies avoid theirs, and find the (usually outrageous) truth. \"The mayor of Rabbit Hash, Kentucky is a ____.\" Go!",
                 "playerMin": 2,
@@ -56,7 +56,7 @@
         "gamePath": "",
         "games": [
             {
-                "name": "Quiplash",
+                "name": "QUIPLASH",
                 "pictureName": "Quiplash.png",
                 "description": "For 3-8 Players and an Audience of thousands! Your phones or tablets are your controllers! The gut-busting, say-anything, no-rules party game!",
                 "playerMin": 3,
@@ -78,7 +78,7 @@
         "gamePath": "",
         "games": [
             {
-                "name": "Quiplash 2 InterLASHional",
+                "name": "QUIPLASH 2 INTERLASHIONAL",
                 "pictureName": "quiplash2.png",
                 "description": "The \"say anything\" party game is going international! All the hilarious content from Quiplash 2, now in French, Italian, German, and Spanish! With 100 NEW prompts in each language! (And you can still play in boring old English.) Get this QUINTILINGUAL Quiplash now, and take your next party global!",
                 "playerMin": 3,
@@ -515,6 +515,60 @@
                 "description": "A social deduction game where everyone did it!",
                 "playerMin": 4,
                 "playerMax": 8,
+                "like": 0
+            }
+        ]
+    },
+    {
+        "name": "Jackbox Party Pack 9",
+        "bg_color": "#ef7e6c",
+        "text_color": "black",
+        "description_color": "#265b5f",
+        "highlight_color": "white",
+        "title_color": "#FFFFFF",
+        "button_text_color": "#000000",
+        "picturesPath": "Pictures/Pack 9/",
+        "enabled": true,
+        "gamePath": "",
+        "games": [
+            {
+                "name": "FIBBAGE 4",
+                "pictureName": "fibbage4.png",
+                "description": "The BLANKING fun fourquel with all new ways to fool your friends!",
+                "playerMin": 2,
+                "playerMax": 8,
+                "like": 0
+            },
+            {
+                "name": "ROOMERANG",
+                "pictureName": "roomerang.png",
+                "description": "Are you here to make friends...or WIN?",
+                "playerMin": 4,
+                "playerMax": 9,
+                "like": 0
+            },
+            {
+                "name": "JUNKTOPIA",
+                "pictureName": "junktopia.png",
+                "description": "Every strange item has a story.",
+                "playerMin": 3,
+                "playerMax": 8,
+                "like": 0
+            },
+            {
+                "name": "NONSENSORY",
+                "pictureName": "nonsensory.png",
+                "description": "Drawing, writing and READING MINDS!",
+                "playerMin": 3,
+                "playerMax": 8,
+                "like": 0
+            },
+            {
+                "name": "QUIXORT",
+                "pictureName": "quixort.png",
+                "description": "These falling blocks of trivia aren't gonna sort themselves!",
+                "playerMin": 1,
+                "playerMax": 10,
                 "like": 0
             }
         ]
