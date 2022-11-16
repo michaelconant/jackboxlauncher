@@ -518,5 +518,59 @@
                 "like": 0
             }
         ]
+    },
+    {
+        "name": "Jackbox Party Pack 9",
+        "bg_color": "#ef7e6c",
+        "text_color": "black",
+        "description_color": "#265b5f",
+        "highlight_color": "white",
+        "title_color": "#FFFFFF",
+        "button_text_color": "#000000",
+        "picturesPath": "Pictures/Pack 9/",
+        "enabled": true,
+        "gamePath": "",
+        "games": [
+            {
+                "name": "FIBBAGE 4",
+                "pictureName": "fibbage4.png",
+                "description": "The BLANKING fun fourquel with all new ways to fool your friends!",
+                "playerMin": 2,
+                "playerMax": 8,
+                "like": 0
+            },
+            {
+                "name": "ROOMERANG",
+                "pictureName": "roomerang.png",
+                "description": "Are you here to make friends...or WIN?",
+                "playerMin": 4,
+                "playerMax": 9,
+                "like": 0
+            },
+            {
+                "name": "JUNKTOPIA",
+                "pictureName": "junktopia.png",
+                "description": "Every strange item has a story.",
+                "playerMin": 3,
+                "playerMax": 8,
+                "like": 0
+            },
+            {
+                "name": "NONSENSORY",
+                "pictureName": "nonsensory.png",
+                "description": "Drawing, writing and READING MINDS!",
+                "playerMin": 3,
+                "playerMax": 8,
+                "like": 0
+            },
+            {
+                "name": "QUIXORT",
+                "pictureName": "quixort.png",
+                "description": "These falling blocks of trivia aren't gonna sort themselves!",
+                "playerMin": 1,
+                "playerMax": 10,
+                "like": 0
+            }
+        ]
     }
 ]
