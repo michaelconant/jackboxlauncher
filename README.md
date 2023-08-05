@@ -132,4 +132,5 @@ The resolution for the GUI button pictures is 120x120. <br />
 
 UPDATE: Current status of project.
 ---------------
-This project probably won't get updated and if it does it won't be anytime soon, unless I get notified about or find a bug.
+This project probably won't get updated and if it does it won't be anytime soon, unless I get notified about or find a bug.<br />
+(Aug 5, 2023) I just learned about the release of Jackbox Party Pack 10 later this year. With it's release I think this may be the time to touch up this project and fix some issues that I know pack 10 will cause. I need a personal project to work on and it may be the perfect time to work on this. I can't guarantee that I will be updating this project but it is very likely. When looking back at this project I have realized while I don't hate the simple GUI I don't love it either. I am also trying to decide if want to do simple updates to this project, rewrite it, or create a website instead.
