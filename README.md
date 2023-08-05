@@ -130,29 +130,6 @@ The resolution for the GUI button pictures is 120x120. <br />
 
 
 
-More Pointless information on Me and the Project
----------------
-
-Programmer Name:   ProjectCuriosity <br />
-Version Number :   1.2 <br />
-Python Version :   3.9 (64 Bit) <br />
-OS             :   Windows <br />
-
-I am a college student who just likes speading days making projects to automate problems I run into
-that take a minute to do manually. <br />
-This is the first thing I have made in python so it is far from perfect but I hope it solves
-a small problem I ran into when playing jackbox with my friends. <br />
-
-If I decide to continue to work on this project I have a few updates in mind. Some features I would like
-to add next are <br />
-  * Linux and Mac Support <br />
-  * Genre tags for games <br />
-    * Simple tags like drawing, trivia, etc. <br />
-  * More information for the games <br />
-    * I would like information like player amount, family friendly, etc to be viewable in the Launcher<br />
-<br />
-I have a few more ideas i'm unsure if I want to do but I want to focus on these because they would make the launcher ten times better. <br />
-
 UPDATE: Current status of project.
 ---------------
 This project probably won't get updated and if it does it won't be anytime soon, unless I get notified about or find a bug.
